@@ -108,6 +108,8 @@ Welcome to my GitHub! I'm a passionate **CS Engineering Student** at TEK-UP Univ
 
 <div align="center">
 
-![wave](https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer&text=Happy%20Coding!%20%F0%9F%9A%80%20Innovation%20Never%20Stops%20%E2%9C%A8&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=twinkling)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%9A%80;Let's+Build+Together!+%E2%9C%A8;Innovation+Never+Stops!+%F0%9F%92%A1)](https://git.io/typing-svg)
+
+![wave](https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer&animation=twinkling)
 
 </div>
