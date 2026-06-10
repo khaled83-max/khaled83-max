@@ -1,16 +1,33 @@
-## Hi there 👋
+```python
+class KhaledBenHmida:
+    def __init__(self):
+        self.name = "Khaled Ben Hmida"
+        self.title = "CS Engineering Student | TEK-UP University | Tunisia"
+        self.location = "Tunis, Tunisia 🇹🇳"
 
-<!--
-**khaled83-max/khaled83-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        self.about = "EE-turned-CS engineer passionate about Linux, DevOps, AI/RAG, and IoT systems."
 
-Here are some ideas to get you started:
+        self.skills = [
+            "Python", "Java", "Linux/RHEL", "Docker",
+            "LangChain", "RAG", "FAISS", "Networking (Cisco)",
+            "PHP", "JavaScript", "MQTT", "Git"
+        ]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        self.certifications = ["RHCSA (in progress)", "PCAP (in progress)"]
+
+        self.projects = {
+            "MediAgent": "RAG-based medical AI assistant (LangChain, FAISS, Groq/Llama3, Streamlit)",
+            "SAH Lilas": "Industrial IoT monitoring system (Arduino, MQTT, Node-RED, InfluxDB, Grafana)"
+        }
+
+    def __str__(self):
+        return (
+            f"{self.name} | {self.title}\n"
+            f"{self.about}\n"
+            f"Skills: {', '.join(self.skills)}\n"
+            f"Projects: {', '.join(self.projects.keys())}"
+        )
+
+if __name__ == "__main__":
+    print(KhaledBenHmida())
+```
