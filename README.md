@@ -107,5 +107,7 @@ Welcome to my GitHub! I'm a passionate **CS Engineering Student** at TEK-UP Univ
 ---
 
 <div align="center">
-<sub>Built with ❤️ from Tunis, Tunisia 🇹🇳</sub>
+
+![wave](https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer&text=Happy%20Coding!%20%F0%9F%9A%80%20Innovation%20Never%20Stops%20%E2%9C%A8&fontSize=20&fontColor=ffffff&fontAlignY=65&animation=twinkling)
+
 </div>
